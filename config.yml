@@ -1,0 +1,7 @@
+# Ability cooldowns are in seconds.
+nightspear-flight-cooldown: 30
+nightspear-flight-duration: 8
+hazre-blast-cooldown: 60
+hazre-teleport-cooldown: 8
+hazre-blast-radius: 50
+uryu-freeze-seconds: 5

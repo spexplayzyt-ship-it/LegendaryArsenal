@@ -1,0 +1,14 @@
+name: LegendaryArsenal
+version: 1.0.0
+main: com.ronak.legendaryarsenal.LegendaryArsenal
+api-version: '26.3'
+author: Ronak
+description: Five legendary custom weapons and a full armour set.
+commands:
+  weapons:
+    description: Give legendary arsenal items.
+    usage: /weapons give <player> <nightspear|hazremace|uryusword|benrobow|sekuehelmet|sekuechestplate|sekueleggings|sekueboots|sekuefull>
+    permission: legendaryarsenal.admin
+permissions:
+  legendaryarsenal.admin:
+    default: op
